@@ -1,13 +1,11 @@
 {
   "expo": {
-    "name": "ARkit",
-    "slug": "ARKit",
+    "name": "Expo ARKit",
+    "slug": "expo-arkit",
+    "description": "Augmented Reality basic example for iOS devices",
     "privacy": "public",
     "sdkVersion": "32.0.0",
-    "platforms": [
-      "ios",
-      "android"
-    ],
+    "platforms": ["ios"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
